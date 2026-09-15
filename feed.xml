@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed
+    xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+
+  <Header>
+    <Provider>Felipe M. Yonaha Mendes - CRECI-MS 15588-F</Provider>
+    <Email>felipeyonaha12@gmail.com</Email>
+    <ContactName>Felipe M. Yonaha Mendes</ContactName>
+    <PublishDate>2026-09-15T00:00:00</PublishDate>
+    <Telephone>67-99911 9867</Telephone>
+  </Header>
+
+  <Listings>
+    <Listing>
+      <ListingID>SALA_02_SELECT_PARK</ListingID>
+      <Title><![CDATA[Sala Comercial na Galeria Select Park - Chácara Cachoeira | 50m²]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/</DetailViewUrl>
+
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Commercial / Office</PropertyType>
+        <Description><![CDATA[Excelente sala comercial com 50 m² situada no 1º andar (piso superior) da Galeria Select Park. Ponto estratégico para escritórios corporativos, consultorias, clínicas, agências e prestadores de serviços, com fluxo organizado e localização nobre.
+
+CARACTERÍSTICAS DO IMÓVEL:
+- Área útil de 50 m² (área total de 55 m²)
+- Sala ampla no piso superior da galeria
+- Banheiro privativo / lavabo
+- Fachada envidraçada com excelente iluminação natural
+- Preparação para ar-condicionado tipo split
+
+ESTRUTURA DA GALERIA:
+- Galeria moderna, segura e bem cuidada
+- Acesso controlado
+- Estacionamento facilitado na região
+
+LOCALIZAÇÃO E PROXIMIDADES:
+- Rua Elvira Coelho Machado, 158 - Chácara Cachoeira / Vila Miguel Couto
+- A poucos metros da Av. Ceará e com fácil acesso à Av. Afonso Pena
+- Próximo a polos comerciais, gastronômicos e centros empresariais
+
+CONDIÇÕES E GARANTIAS:
+- Garantia locatícia: Exclusivamente 3 cauções
+- Sujeito a análise cadastral
+
+Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description>
+        <RentalPrice currency="BRL" period="Monthly">2900</RentalPrice>
+        <Iptu currency="BRL" period="Monthly">152</Iptu>
+        <LivingArea unit="square metres">50</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Warranties>
+          <Warranty>SECURITY_DEPOSIT</Warranty>
+        </Warranties>
+      </Details>
+
+      <Location displayAddress="All">
+        <Country abbreviation="BR"><![CDATA[Brasil]]></Country>
+        <State abbreviation="MS"><![CDATA[Mato Grosso do Sul]]></State>
+        <City><![CDATA[Campo Grande]]></City>
+        <Neighborhood><![CDATA[Chácara Cachoeira]]></Neighborhood>
+        <Address><![CDATA[Rua Elvira Coelho Machado]]></Address>
+        <StreetNumber>158</StreetNumber>
+        <Complement><![CDATA[Sala 02 - Galeria Select Park]]></Complement>
+        <PostalCode>79040-131</PostalCode>
+      </Location>
+
+      <ContactInfo>
+        <Name><![CDATA[Felipe M. Yonaha Mendes]]></Name>
+        <Email>felipeyonaha12@gmail.com</Email>
+        <Telephone>67-99911 9867</Telephone>
+      </ContactInfo>
+
+      <Media>
+        <Item medium="image" caption="Fachada" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-01.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-02.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-03.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-04.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-05.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-06.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-07.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-08.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-09.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-10.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-11.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-12.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-13.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-14.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-15.jpg</Item>
+      </Media>
+
+    </Listing>
+  </Listings>
+</ListingDataFeed>
