@@ -8,7 +8,7 @@
     <Provider>Felipe M. Yonaha Mendes - CRECI-MS 15588-F</Provider>
     <Email>felipeyonaha12@gmail.com</Email>
     <ContactName>Felipe M. Yonaha Mendes</ContactName>
-    <PublishDate>2026-09-15T00:00:00</PublishDate>
+    <PublishDate>2026-09-18T21:01:04</PublishDate>
     <Telephone>67-99911 9867</Telephone>
   </Header>
 
@@ -92,6 +92,121 @@ Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description>
         <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/sala02/sala-comercial-select-park-chacara-cachoeira-15.jpg</Item>
       </Media>
 
+    </Listing>
+    <Listing>
+      <ListingID>UPPER-GRAND-PARK-APT-3Q</ListingID>
+      <Title><![CDATA[Apartamento 3 quartos com suíte e 2 vagas, 80m², Mata do Jacinto | R$ 3.500 tudo incluso]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/upper/</DetailViewUrl>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento de 80 m² com 3 dormitórios, sendo 1 suíte, no Residencial Upper Grand Park, na Rua Afro Puga, 147, Mata do Jacinto, em Campo Grande.
+
+O living tem espaço para estar e jantar, com ventilador de teto, sanca iluminada e saída para a varanda, fechada com rede de proteção. A cozinha é entregue com armários superiores e inferiores, gaveteiros e bancada em pedra escura, ligada diretamente à área de serviço, que tem janela própria. Os dormitórios ficam em circulação independente e parte deles já conta com armário fixo. Dois dos três quartos têm ar-condicionado instalado. São 2 banheiros, ambos com bancada em pedra escura, gabinete e box de vidro. A unidade conta com 2 vagas de garagem.
+
+ALUGUEL DE R$ 3.500,00 POR MÊS, JÁ COM CONDOMÍNIO E IPTU INCLUSOS. Um único valor, sem surpresa no fim do mês.
+
+O IMÓVEL
+- 80 m²
+- 3 dormitórios, sendo 1 suíte
+- 2 banheiros com bancada em pedra escura, gabinete e box de vidro
+- 2 vagas de garagem
+- Varanda com rede de proteção
+- Cozinha com armários superiores, inferiores e gaveteiros
+- Área de serviço com janela própria
+- Ar-condicionado instalado em 2 dormitórios
+- Pisos claros, sanca iluminada e ventiladores de teto
+
+O CONDOMÍNIO
+- Piscina
+- Playground
+- Quadra poliesportiva coberta
+- Áreas de convivência e jardins
+- Elevador
+- Portaria
+
+GARANTIA
+- Caução de R$ 7.000,00, equivalente a 2 aluguéis
+
+Agende sua visita.
+HANNA Imóveis | CRECI-MS 15588-F]]></Description>
+        <RentalPrice currency="BRL" period="Monthly">3500</RentalPrice>
+        <LivingArea unit="square metres">80</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Warranties>
+          <Warranty>SECURITY_DEPOSIT</Warranty>
+        </Warranties>
+        <Features>
+          <Feature>Balcony</Feature>
+          <Feature>Builtin Wardrobe</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Elevator</Feature>
+          <Feature>Laundry</Feature>
+          <Feature>Parking Garage</Feature>
+          <Feature>Planned Furniture</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+          <Feature>Garden Area</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR"><![CDATA[Brasil]]></Country>
+        <State abbreviation="MS"><![CDATA[Mato Grosso do Sul]]></State>
+        <City><![CDATA[Campo Grande]]></City>
+        <Neighborhood><![CDATA[Mata do Jacinto]]></Neighborhood>
+        <Address><![CDATA[Rua Afro Puga]]></Address>
+        <StreetNumber>147</StreetNumber>
+        <Complement><![CDATA[Residencial Upper Grand Park]]></Complement>
+        <PostalCode>79033-160</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Felipe M. Yonaha Mendes</Name>
+        <Email>felipeyonaha12@gmail.com</Email>
+        <Telephone>67-99911 9867</Telephone>
+      </ContactInfo>
+      <Media>
+        <Item medium="image" caption="Living" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-01.jpg</Item>
+        <Item medium="image" caption="Living com acesso a varanda">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-02.jpg</Item>
+        <Item medium="image" caption="Living">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-03.jpg</Item>
+        <Item medium="image" caption="Varanda">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-04.jpg</Item>
+        <Item medium="image" caption="Cozinha">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-05.jpg</Item>
+        <Item medium="image" caption="Cozinha e area de servico">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-06.jpg</Item>
+        <Item medium="image" caption="Dormitorio com armario">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-07.jpg</Item>
+        <Item medium="image" caption="Dormitorio com armario">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-08.jpg</Item>
+        <Item medium="image" caption="Dormitorio com armario">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-09.jpg</Item>
+        <Item medium="image" caption="Dormitorio">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-10.jpg</Item>
+        <Item medium="image" caption="Dormitorio">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-11.jpg</Item>
+        <Item medium="image" caption="Dormitorio">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-12.jpg</Item>
+        <Item medium="image" caption="Dormitorio">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-13.jpg</Item>
+        <Item medium="image" caption="Banheiro">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-14.jpg</Item>
+        <Item medium="image" caption="Banheiro">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-15.jpg</Item>
+        <Item medium="image" caption="Banheiro">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-16.jpg</Item>
+        <Item medium="image" caption="Banheiro">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-17.jpg</Item>
+        <Item medium="image" caption="Circulacao intima">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-18.jpg</Item>
+        <Item medium="image" caption="Entrada">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-19.jpg</Item>
+        <Item medium="image" caption="Fachada">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-20.jpg</Item>
+        <Item medium="image" caption="Piscina">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-21.jpg</Item>
+        <Item medium="image" caption="Playground">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-22.jpg</Item>
+        <Item medium="image" caption="Quadra poliesportiva">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-23.jpg</Item>
+        <Item medium="image" caption="Espaco envidracado de uso comum">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-24.jpg</Item>
+        <Item medium="image" caption="Espaco envidracado e area de convivencia">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-25.jpg</Item>
+        <Item medium="image" caption="Jardim">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-26.jpg</Item>
+        <Item medium="image" caption="Area de convivencia externa">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-27.jpg</Item>
+        <Item medium="image" caption="Mercado autonomo">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-28.jpg</Item>
+        <Item medium="image" caption="Lavanderia coletiva">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-29.jpg</Item>
+        <Item medium="image" caption="Banheiro de area comum">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-30.jpg</Item>
+        <Item medium="image" caption="Edificacao de apoio">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-31.jpg</Item>
+        <Item medium="image" caption="Acesso externo">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-32.jpg</Item>
+        <Item medium="image" caption="Elevador">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-33.jpg</Item>
+        <Item medium="image" caption="Circulacao interna">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-34.jpg</Item>
+      </Media>
     </Listing>
   </Listings>
 </ListingDataFeed>
