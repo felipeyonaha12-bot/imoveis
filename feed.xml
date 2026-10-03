@@ -15,7 +15,7 @@
       <Title><![CDATA[Sala Comercial na Galeria Select Park - Chácara Cachoeira | 50m²]]></Title>
       <TransactionType>For Rent</TransactionType>
       <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/</DetailViewUrl>
+      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/sala-select-park/</DetailViewUrl>
 
       <Details>
         <UsageType>Commercial</UsageType>
@@ -95,7 +95,7 @@ Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description>
       <Title><![CDATA[Apartamento 3 quartos com suíte, 70 m², Mata do Jacinto · R$ 3.500 com condomínio e IPTU]]></Title>
       <TransactionType>For Rent</TransactionType>
       <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/upper/</DetailViewUrl>
+      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/upper-grand-park/</DetailViewUrl>
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
@@ -200,7 +200,7 @@ HANNA Imóveis · CRECI-MS 15588-F]]></Description>
         <Item medium="image" caption="Circulacao interna">https://felipeyonaha12-bot.github.io/imoveis/fotos/upper/apartamento-3-quartos-suite-upper-grand-park-mata-do-jacinto-34.jpg</Item>
       </Media>
     </Listing>
-  <Listing><ListingID>IMOVEL-MS-CGR-VILLAGE-PARATI-CASA930</ListingID><Title><![CDATA[Casa térrea semimobiliada no Village Parati | 2 quartos, 2 vagas]]></Title><TransactionType>For Rent</TransactionType><PublicationType>STANDARD</PublicationType><DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/</DetailViewUrl><Details><UsageType>Residential</UsageType><PropertyType>Residential / Condo</PropertyType><Description><![CDATA[Casa térrea semimobiliada para locação no Condomínio Village Parati, Bairro Parati, em Campo Grande/MS.
+  <Listing><ListingID>IMOVEL-MS-CGR-VILLAGE-PARATI-CASA930</ListingID><Title><![CDATA[Casa térrea semimobiliada no Village Parati | 2 quartos, 2 vagas]]></Title><TransactionType>For Rent</TransactionType><PublicationType>STANDARD</PublicationType><DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/village-parati/</DetailViewUrl><Details><UsageType>Residential</UsageType><PropertyType>Residential / Condo</PropertyType><Description><![CDATA[Casa térrea semimobiliada para locação no Condomínio Village Parati, Bairro Parati, em Campo Grande/MS.
 
 Imóvel com 41 m² de área construída e 88 m² de área privativa total, composto por:
 
@@ -231,5 +231,129 @@ IPTU: R$ 100,00
 
 Para agilizar o atendimento e o agendamento da visita, informe número de moradores, profissão/renda familiar e previsão de entrada no imóvel.
 
-Felipe M. Yonaha Mendes | CRECI/MS 15588]]></Description><RentalPrice currency="BRL" period="Monthly">1800</RentalPrice><PropertyAdministrationFee currency="BRL">200</PropertyAdministrationFee><Iptu currency="BRL" period="Monthly">100</Iptu><LivingArea unit="square metres">41</LivingArea><Bedrooms>2</Bedrooms><Bathrooms>1</Bathrooms><Suites>0</Suites><Garage type="Parking Space">2</Garage><Warranties><Warranty>SECURITY_DEPOSIT</Warranty><Warranty>INSURANCE_GUARANTEE</Warranty></Warranties><Features><Feature>Air Conditioning</Feature><Feature>Backyard</Feature><Feature>BBQ</Feature><Feature>Builtin Wardrobe</Feature><Feature>Controlled Access</Feature><Feature>Cooling</Feature><Feature>Fenced Yard</Feature><Feature>Furnished</Feature><Feature>Garden Area</Feature><Feature>Gourmet Area</Feature><Feature>Gym</Feature><Feature>Laundry</Feature><Feature>Parking Garage</Feature><Feature>Party Room</Feature><Feature>Planned Furniture</Feature><Feature>Security Guard on Duty</Feature><Feature>Sports Court</Feature></Features></Details><Location displayAddress="All"><Country abbreviation="BR"><![CDATA[Brasil]]></Country><State abbreviation="MS"><![CDATA[Mato Grosso do Sul]]></State><City><![CDATA[Campo Grande]]></City><Neighborhood><![CDATA[Parati]]></Neighborhood><Address><![CDATA[Rua da Divisão]]></Address><StreetNumber>975</StreetNumber><Complement><![CDATA[Casa 930 - Condomínio Residencial Village Parati]]></Complement><PostalCode>79081-650</PostalCode></Location><ContactInfo><Name><![CDATA[Felipe M. Yonaha Mendes]]></Name><Email>felipeyonaha12@gmail.com</Email><Telephone>67-99911 9867</Telephone></ContactInfo><Media><Item medium="image" caption="Fachada com garagem coberta" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/01-casa-locacao-2q-village-parati-campo-grande-ms-fachada-garagem-coberta.jpg</Item><Item medium="image" caption="Garagem coberta e acesso">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/02-casa-locacao-2q-village-parati-campo-grande-ms-garagem-coberta-acesso.jpg</Item><Item medium="image" caption="Sala de estar com painel planejado">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/03-casa-locacao-2q-village-parati-campo-grande-ms-sala-estar-painel-tv.jpg</Item><Item medium="image" caption="Sala de estar e circulação">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/04-casa-locacao-2q-village-parati-campo-grande-ms-sala-estar-integrada.jpg</Item><Item medium="image" caption="Sala com iluminação natural">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/05-casa-locacao-2q-village-parati-campo-grande-ms-sala-iluminacao-natural.jpg</Item><Item medium="image" caption="Cozinha planejada completa">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/06-casa-locacao-2q-village-parati-campo-grande-ms-cozinha-planejada-completa.jpg</Item><Item medium="image" caption="Cozinha armários aéreos">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/07-casa-locacao-2q-village-parati-campo-grande-ms-cozinha-armarios-aereos.jpg</Item><Item medium="image" caption="Quintal privativo 47m2 piso novo">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/08-casa-locacao-2q-village-parati-campo-grande-ms-quintal-privativo-47m2-piso-novo.jpg</Item><Item medium="image" caption="Quintal área coberta lavanderia">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/09-casa-locacao-2q-village-parati-campo-grande-ms-quintal-area-coberta-lavanderia.jpg</Item><Item medium="image" caption="Quintal tanque e ralos">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/10-casa-locacao-2q-village-parati-campo-grande-ms-quintal-tanque-ralos.jpg</Item><Item medium="image" caption="Quarto 01 persiana double vision">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/14-casa-locacao-2q-village-parati-campo-grande-ms-quarto-01-persiana-double-vision.jpg</Item><Item medium="image" caption="Banheiro louças e acessórios">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/15-casa-locacao-2q-village-parati-campo-grande-ms-banheiro-loucas-acessorios.jpg</Item><Item medium="image" caption="Quarto ponto ar-condicionado">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/16-casa-locacao-2q-village-parati-campo-grande-ms-quarto-ponto-ar-condicionado.jpg</Item><Item medium="image" caption="Condomínio praça quiosques">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/22-casa-locacao-2q-village-parati-campo-grande-ms-condominio-praca-quiosques.jpg</Item><Item medium="image" caption="Condomínio salão festas churrasqueira">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/23-casa-locacao-2q-village-parati-campo-grande-ms-condominio-salao-festas-churrasqueira.jpg</Item><Item medium="image" caption="Condomínio quadra de areia">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/24-casa-locacao-2q-village-parati-campo-grande-ms-condominio-quadra-de-areia.jpg</Item><Item medium="image" caption="Condomínio áreas verdes convivência">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/25-casa-locacao-2q-village-parati-campo-grande-ms-condominio-areas-verdes-convivencia.jpg</Item><Item medium="image" caption="Condomínio alameda arborizada">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/26-casa-locacao-2q-village-parati-campo-grande-ms-condominio-alameda-arborizada.jpg</Item><Item medium="image" caption="Condomínio jardins">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/27-casa-locacao-2q-village-parati-campo-grande-ms-condominio-jardins.jpg</Item><Item medium="image" caption="Condomínio paisagismo">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/28-casa-locacao-2q-village-parati-campo-grande-ms-condominio-paisagismo.jpg</Item><Item medium="image" caption="Condomínio praça arborizada">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/29-casa-locacao-2q-village-parati-campo-grande-ms-condominio-praca-arborizada.jpg</Item><Item medium="image" caption="Condomínio quiosque gourmet">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/30-casa-locacao-2q-village-parati-campo-grande-ms-condominio-quiosque-gourmet.jpg</Item><Item medium="image" caption="Condomínio bancos quiosque">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/31-casa-locacao-2q-village-parati-campo-grande-ms-condominio-bancos-quiosque.jpg</Item><Item medium="image" caption="Condomínio salão social">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/32-casa-locacao-2q-village-parati-campo-grande-ms-condominio-salao-social.jpg</Item><Item medium="image" caption="Condomínio varanda salão festas">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/33-casa-locacao-2q-village-parati-campo-grande-ms-condominio-varanda-salao-festas.jpg</Item><Item medium="image" caption="Condomínio banheiros apoio">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/34-casa-locacao-2q-village-parati-campo-grande-ms-condominio-banheiros-apoio.jpg</Item><Item medium="image" caption="Condomínio campo society 01">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/35-casa-locacao-2q-village-parati-campo-grande-ms-condominio-campo-society-01.jpg</Item><Item medium="image" caption="Condomínio campo society 02">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/36-casa-locacao-2q-village-parati-campo-grande-ms-condominio-campo-society-02.jpg</Item><Item medium="image" caption="Condomínio container conveniência">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/37-casa-locacao-2q-village-parati-campo-grande-ms-condominio-container-conveniencia.jpg</Item><Item medium="image" caption="Condomínio portaria acesso">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/38-casa-locacao-2q-village-parati-campo-grande-ms-condominio-portaria-acesso.jpg</Item></Media></Listing></Listings>
+Felipe M. Yonaha Mendes | CRECI/MS 15588]]></Description><RentalPrice currency="BRL" period="Monthly">1800</RentalPrice><PropertyAdministrationFee currency="BRL">200</PropertyAdministrationFee><Iptu currency="BRL" period="Monthly">100</Iptu><LivingArea unit="square metres">41</LivingArea><Bedrooms>2</Bedrooms><Bathrooms>1</Bathrooms><Suites>0</Suites><Garage type="Parking Space">2</Garage><Warranties><Warranty>SECURITY_DEPOSIT</Warranty><Warranty>INSURANCE_GUARANTEE</Warranty></Warranties><Features><Feature>Air Conditioning</Feature><Feature>Backyard</Feature><Feature>BBQ</Feature><Feature>Builtin Wardrobe</Feature><Feature>Controlled Access</Feature><Feature>Cooling</Feature><Feature>Fenced Yard</Feature><Feature>Furnished</Feature><Feature>Garden Area</Feature><Feature>Gourmet Area</Feature><Feature>Gym</Feature><Feature>Laundry</Feature><Feature>Parking Garage</Feature><Feature>Party Room</Feature><Feature>Planned Furniture</Feature><Feature>Security Guard on Duty</Feature><Feature>Sports Court</Feature></Features></Details><Location displayAddress="All"><Country abbreviation="BR"><![CDATA[Brasil]]></Country><State abbreviation="MS"><![CDATA[Mato Grosso do Sul]]></State><City><![CDATA[Campo Grande]]></City><Neighborhood><![CDATA[Parati]]></Neighborhood><Address><![CDATA[Rua da Divisão]]></Address><StreetNumber>975</StreetNumber><Complement><![CDATA[Casa 930 - Condomínio Residencial Village Parati]]></Complement><PostalCode>79081-650</PostalCode></Location><ContactInfo><Name><![CDATA[Felipe M. Yonaha Mendes]]></Name><Email>felipeyonaha12@gmail.com</Email><Telephone>67-99911 9867</Telephone></ContactInfo><Media><Item medium="image" caption="Fachada com garagem coberta" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/01-casa-locacao-2q-village-parati-campo-grande-ms-fachada-garagem-coberta.jpg</Item><Item medium="image" caption="Garagem coberta e acesso">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/02-casa-locacao-2q-village-parati-campo-grande-ms-garagem-coberta-acesso.jpg</Item><Item medium="image" caption="Sala de estar com painel planejado">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/03-casa-locacao-2q-village-parati-campo-grande-ms-sala-estar-painel-tv.jpg</Item><Item medium="image" caption="Sala de estar e circulação">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/04-casa-locacao-2q-village-parati-campo-grande-ms-sala-estar-integrada.jpg</Item><Item medium="image" caption="Sala com iluminação natural">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/05-casa-locacao-2q-village-parati-campo-grande-ms-sala-iluminacao-natural.jpg</Item><Item medium="image" caption="Cozinha planejada completa">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/06-casa-locacao-2q-village-parati-campo-grande-ms-cozinha-planejada-completa.jpg</Item><Item medium="image" caption="Cozinha armários aéreos">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/07-casa-locacao-2q-village-parati-campo-grande-ms-cozinha-armarios-aereos.jpg</Item><Item medium="image" caption="Quintal privativo 47m2 piso novo">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/08-casa-locacao-2q-village-parati-campo-grande-ms-quintal-privativo-47m2-piso-novo.jpg</Item><Item medium="image" caption="Quintal área coberta lavanderia">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/09-casa-locacao-2q-village-parati-campo-grande-ms-quintal-area-coberta-lavanderia.jpg</Item><Item medium="image" caption="Quintal tanque e ralos">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/10-casa-locacao-2q-village-parati-campo-grande-ms-quintal-tanque-ralos.jpg</Item><Item medium="image" caption="Quarto 01 persiana double vision">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/14-casa-locacao-2q-village-parati-campo-grande-ms-quarto-01-persiana-double-vision.jpg</Item><Item medium="image" caption="Banheiro louças e acessórios">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/15-casa-locacao-2q-village-parati-campo-grande-ms-banheiro-loucas-acessorios.jpg</Item><Item medium="image" caption="Quarto ponto ar-condicionado">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/16-casa-locacao-2q-village-parati-campo-grande-ms-quarto-ponto-ar-condicionado.jpg</Item><Item medium="image" caption="Condomínio praça quiosques">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/22-casa-locacao-2q-village-parati-campo-grande-ms-condominio-praca-quiosques.jpg</Item><Item medium="image" caption="Condomínio salão festas churrasqueira">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/23-casa-locacao-2q-village-parati-campo-grande-ms-condominio-salao-festas-churrasqueira.jpg</Item><Item medium="image" caption="Condomínio quadra de areia">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/24-casa-locacao-2q-village-parati-campo-grande-ms-condominio-quadra-de-areia.jpg</Item><Item medium="image" caption="Condomínio áreas verdes convivência">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/25-casa-locacao-2q-village-parati-campo-grande-ms-condominio-areas-verdes-convivencia.jpg</Item><Item medium="image" caption="Condomínio alameda arborizada">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/26-casa-locacao-2q-village-parati-campo-grande-ms-condominio-alameda-arborizada.jpg</Item><Item medium="image" caption="Condomínio jardins">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/27-casa-locacao-2q-village-parati-campo-grande-ms-condominio-jardins.jpg</Item><Item medium="image" caption="Condomínio paisagismo">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/28-casa-locacao-2q-village-parati-campo-grande-ms-condominio-paisagismo.jpg</Item><Item medium="image" caption="Condomínio praça arborizada">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/29-casa-locacao-2q-village-parati-campo-grande-ms-condominio-praca-arborizada.jpg</Item><Item medium="image" caption="Condomínio quiosque gourmet">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/30-casa-locacao-2q-village-parati-campo-grande-ms-condominio-quiosque-gourmet.jpg</Item><Item medium="image" caption="Condomínio bancos quiosque">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/31-casa-locacao-2q-village-parati-campo-grande-ms-condominio-bancos-quiosque.jpg</Item><Item medium="image" caption="Condomínio salão social">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/32-casa-locacao-2q-village-parati-campo-grande-ms-condominio-salao-social.jpg</Item><Item medium="image" caption="Condomínio varanda salão festas">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/33-casa-locacao-2q-village-parati-campo-grande-ms-condominio-varanda-salao-festas.jpg</Item><Item medium="image" caption="Condomínio banheiros apoio">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/34-casa-locacao-2q-village-parati-campo-grande-ms-condominio-banheiros-apoio.jpg</Item><Item medium="image" caption="Condomínio campo society 01">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/35-casa-locacao-2q-village-parati-campo-grande-ms-condominio-campo-society-01.jpg</Item><Item medium="image" caption="Condomínio campo society 02">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/36-casa-locacao-2q-village-parati-campo-grande-ms-condominio-campo-society-02.jpg</Item><Item medium="image" caption="Condomínio container conveniência">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/37-casa-locacao-2q-village-parati-campo-grande-ms-condominio-container-conveniencia.jpg</Item><Item medium="image" caption="Condomínio portaria acesso">https://felipeyonaha12-bot.github.io/imoveis/fotos/parati/38-casa-locacao-2q-village-parati-campo-grande-ms-condominio-portaria-acesso.jpg</Item></Media></Listing><Listing><ListingID>TERRENO-RESERVA-SANTA-INES</ListingID><Title><![CDATA[Terreno 253 m² no Reserva Santa Inês | Condomínio Fechado]]></Title><TransactionType>For Sale</TransactionType><PublicationType>STANDARD</PublicationType><DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/reserva-santa-ines/</DetailViewUrl><Media><Item medium="image" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/01_terreno_quadra_10_lote_20_demarcacao_253m2.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/02_terreno_quadra_10_lote_20_vista_frontal_rua.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/03_terreno_quadra_10_lote_20_placa_quadra_10.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/04_terreno_quadra_10_lote_20_identificacao_piquete.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/05_terreno_quadra_10_lote_20_vista_ampla_plano.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/06_terreno_quadra_10_lote_20_vizinhanca_consolidada.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/08_vista_aerea_geral_reserva_santa_ines.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/09_portaria_24h_seguranca_controle_acesso.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/10_portaria_totem_reserva_santa_ines.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/11_piscina_resort_solario_palmeiras.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/12_piscina_deck_madeira_espreguicadeiras.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/13_piscina_deck_pedra_vista_clube.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/14_salao_festas_gourmet_fachada_clube.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/15_salao_festas_gourmet_interior_climatizado.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/16_lounge_externo_varanda_social.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/17_quiosque_churrasqueira_espaco_gourmet.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/18_quiosques_churrasqueiras_integrados_ao_verde.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/19_campo_de_futebol_gramado.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/20_quadra_poliesportiva_iluminada.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/21_quadra_de_volei_de_areia_beach_tennis.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/22_playground_infantil_escorregador_balancos.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/23_playground_aventura_circuito_madeira.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/24_espaco_pet_place_parque_canino.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/25_horta_organica_canteiros_paisagismo.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/26_alameda_passeio_jardins_iluminacao.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/27_ciclovia_pista_caminhada_asfalto.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/28_praca_jogos_convivencia_wifi.jpg</Item><Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/santa-ines/img-planta.jpg</Item></Media><Details><UsageType>Residential</UsageType><PropertyType>Residential / Land Lot</PropertyType><Description><![CDATA[Excelente oportunidade no Condomínio Residencial Reserva Santa Inês! Terreno 100% plano com 253 m² de área total (11 x 23 metros), localizado na Quadra 10, Lote 20.
+
+DESTAQUES DO IMÓVEL:
+- Área total privativa de 253 m²
+- Testada principal com 11 metros de frente
+- Topografia totalmente plana, facilitando o projeto arquitetônico e reduzindo custos de fundação
+- Localização estratégica dentro do condomínio: situado em frente à praça de convivência e área de lazer, próximo à portaria
+
+INFRAESTRUTURA COMPLETA DO CONDOMÍNIO RESIDENCIAL RESERVA SANTA INÊS:
+- Portaria 24 horas com controle rigoroso de acesso e segurança
+- Complexo aquático estilo resort com piscina adulto/infantil, solário e palmeiras
+- Salão de festas gourmet totalmente climatizado
+- Quiosques com churrasqueira integrados à natureza
+- Campo de futebol society gramado e quadra poliesportiva iluminada
+- Quadra de vôlei de areia e beach tennis
+- Playground infantil com circuito de aventura em madeira
+- Espaço Pet Place dedicado
+- Pista de caminhada asfaltada e ciclovia interna
+- Horta orgânica e áreas de preservação ambiental
+
+LOCALIZAÇÃO:
+- Endereço do lote: Rua Rio Branco, 221
+- Acesso principal do condomínio: Av. Zulmira Borba, 2814 - Bairro Nova Lima, Campo Grande/MS (CEP 79017-902)
+- Região em franca valorização com fácil acesso aos principais polos comerciais da cidade
+
+CONDIÇÕES COMERCIAIS:
+- Valor de venda: R$ 190.000,00
+- Imóvel quitado, desimpedido e pronto para escrituração imediata
+- IPTU 2026 pago e taxas condominiais rigorosamente em dia
+
+Para mais informações e agendamento de visita no condomínio:
+Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description><ListPrice currency="BRL">190000</ListPrice><LotArea unit="square metres">253</LotArea><Bathrooms>0</Bathrooms><Bedrooms>0</Bedrooms><Suites>0</Suites><Garage>0</Garage></Details><Location displayAddress="All"><Country abbreviation="BR"><![CDATA[Brasil]]></Country><State abbreviation="MS"><![CDATA[MS]]></State><City><![CDATA[Campo Grande]]></City><Neighborhood><![CDATA[Nova Lima]]></Neighborhood><Address><![CDATA[Rua Rio Branco 221 Quadra 10 Lote 20 - Condomínio Residencial Reserva Santa Inês]]></Address><PostalCode>79017902</PostalCode></Location><ContactInfo><Name>Felipe M. Yonaha Mendes</Name><Email>felipeyonaha12@gmail.com</Email><Telephone>67-99911 9867</Telephone></ContactInfo></Listing>
+    <Listing>
+      <ListingID>INDAIA-MONTE-CASTELO-APT-3Q</ListingID>
+      <Title><![CDATA[Apto 3 quartos 75m² térreo, condomínio e IPTU inclusos - Indaiá]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://felipeyonaha12-bot.github.io/imoveis/indaia/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="Fachada frontal" primary="true">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8523.jpg</Item>
+        <Item medium="image" caption="Entrada">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8496.jpg</Item>
+        <Item medium="image" caption="Cozinha">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8497.jpg</Item>
+        <Item medium="image" caption="Área de serviço">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8498.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8499.jpg</Item>
+        <Item medium="image" caption="Cozinha">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8500.jpg</Item>
+        <Item medium="image" caption="Cozinha">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8501.jpg</Item>
+        <Item medium="image" caption="Cozinha">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8502.jpg</Item>
+        <Item medium="image" caption="Sala de estar">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8503.jpg</Item>
+        <Item medium="image" caption="Sala de estar">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8504.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8505.jpg</Item>
+        <Item medium="image" caption="Corredor">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8506.jpg</Item>
+        <Item medium="image" caption="Quarto">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8507.jpg</Item>
+        <Item medium="image" caption="Quarto 2">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8508.jpg</Item>
+        <Item medium="image" caption="Quarto">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8509.jpg</Item>
+        <Item medium="image" caption="Banheiro social">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8510.jpg</Item>
+        <Item medium="image" caption="Banheiro social">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8511.jpg</Item>
+        <Item medium="image" caption="Quarto 3">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8512.jpg</Item>
+        <Item medium="image" caption="Quarto 3">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8513.jpg</Item>
+        <Item medium="image" caption="Quarto 3">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8514.jpg</Item>
+        <Item medium="image" caption="Entrada">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8515.jpg</Item>
+        <Item medium="image" caption="Play-ground">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8517.jpg</Item>
+        <Item medium="image" caption="Área comum">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8518.jpg</Item>
+        <Item medium="image" caption="Área comum">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8519.jpg</Item>
+        <Item medium="image">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8520.jpg</Item>
+        <Item medium="image" caption="Salão de festas">https://felipeyonaha12-bot.github.io/imoveis/fotos/indaia/IMG_8521.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento térreo de 3 quartos com 75 m² no Condomínio Residencial Indaiá, Monte Castelo, Campo Grande/MS. Pacote de R$ 1.800,00 com condomínio e IPTU inclusos. Recém-pintado.
+
+CARACTERÍSTICAS DO IMÓVEL:
+- Área útil de 75 m², unidade térrea
+- 3 quartos com piso cerâmico e ventilador de teto
+- Sala para 2 ambientes (estar e jantar) com painel ripado para TV e ventilador de teto
+- Banheiro social com box Blindex, bancada em granito e espelheira
+- Cozinha com bancada em granito, cuba inox, armários aéreos e gabinete
+- Lavanderia integrada
+- 1 vaga de garagem descoberta
+
+ESTRUTURA DO CONDOMÍNIO:
+- Portaria remota 24h operada pela New Line
+- Salão de festas
+- Playground
+
+LOCALIZAÇÃO:
+- Rua 14 de Julho, Monte Castelo
+- Fácil acesso à UCDB e ao Centro de Campo Grande
+
+VALORES E ENCARGOS:
+- Pacote mensal: R$ 1.800,00
+- Condomínio (R$ 410,00): incluso no pacote
+- IPTU (R$ 100,00/mês): incluso no pacote
+- Seguro incêndio: à parte, estimado em R$ 220,00
+- Água e gás: por consumo
+- Energia elétrica: individual, por consumo
+
+CONDIÇÕES:
+- Garantia locatícia: consultar
+- Contrato de 30 meses
+- Sujeito a análise cadastral e comprovação de renda
+
+Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description>
+        <RentalPrice currency="BRL" period="Monthly">1800</RentalPrice>
+        <LivingArea unit="square metres">75</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR"><![CDATA[Brasil]]></Country>
+        <State abbreviation="MS"><![CDATA[Mato Grosso do Sul]]></State>
+        <City><![CDATA[Campo Grande]]></City>
+        <Neighborhood><![CDATA[Monte Castelo]]></Neighborhood>
+        <Address><![CDATA[Rua 14 de Julho]]></Address>
+        <StreetNumber>5093</StreetNumber>
+        <PostalCode>79011-470</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Felipe M. Yonaha Mendes</Name>
+        <Email>felipeyonaha12@gmail.com</Email>
+        <Telephone>67-99911 9867</Telephone>
+      </ContactInfo>
+    </Listing>
+</Listings>
 </ListingDataFeed>
