@@ -61,5 +61,5 @@ python publicar_imovel.py `
 - **DetailViewUrl:** Toda listagem precisa apontar para uma landing page HTTPS pública válida (para evitar erro 404 no robô indexador do Grupo OLX).
 ## Conexões e Rastreabilidade
 
-- Preparação e validações locais do feed: [[05_IMOBILIARIO/AUTOMATIZAR_E_PUBLICAR/04_PUBLICAR_CANALPRO/legado e pesquisa/ESPECIFICACAO_CLI_SKILL|especificação da CLI/skill]].
+- Preparação e validações locais do feed: [[imobiliario/AUTOMATIZAR_E_PUBLICAR/04_PUBLICAR_CANALPRO/legado e pesquisa/ESPECIFICACAO_CLI_SKILL|especificação da CLI/skill]].
 - Requisitos de mídia e VRSync: [[SEO e Legendas|regras Canal Pro]].
