@@ -269,7 +269,7 @@ Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description><ListPrice currency="
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento térreo de 3 quartos com 75 m² no Condomínio Residencial Indaiá, Monte Castelo, Campo Grande/MS. Pacote de R$ 1.800,00 com condomínio e IPTU inclusos. Recém-pintado.
+        <Description><![CDATA[Apartamento térreo de 3 quartos com 75 m² no Condomínio Residencial Indaiá, Monte Castelo, Campo Grande/MS. Pacote de R$ 1.500,00 com condomínio e IPTU inclusos. Recém-pintado.
 
 CARACTERÍSTICAS DO IMÓVEL:
 - Área útil de 75 m², unidade térrea
@@ -290,7 +290,7 @@ LOCALIZAÇÃO:
 - Fácil acesso à UCDB e ao Centro de Campo Grande
 
 VALORES E ENCARGOS:
-- Pacote mensal: R$ 1.800,00
+- Pacote mensal: R$ 1.500,00
 - Condomínio (R$ 410,00): incluso no pacote
 - IPTU (R$ 100,00/mês): incluso no pacote
 - Seguro incêndio: à parte, estimado em R$ 220,00
@@ -303,7 +303,7 @@ CONDIÇÕES:
 - Sujeito a análise cadastral e comprovação de renda
 
 Felipe M. Yonaha Mendes | CRECI-MS 15588-F]]></Description>
-        <RentalPrice currency="BRL" period="Monthly">1800</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1500</RentalPrice>
         <LivingArea unit="square metres">75</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
